@@ -11,7 +11,7 @@
 #   a Jupyter kernel "Python (cbramod)" for Open OnDemand JupyterLab
 set -eo pipefail
 
-BASE=/courses/CS7150.202710/students/pitta.a
+BASE=/courses/CS7150.202710/students/pitta.a/cbramod-head-interp/cbramod-head-interp
 ENV=$BASE/envs/cbramod
 AUTHORS_REPO=$BASE/CBraMod
 OFFICIAL_COMMIT=b9e961003214326972c567eff390e75b0287e32a
